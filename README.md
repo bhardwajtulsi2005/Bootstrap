@@ -1,1 +1,2 @@
 # Bootstrap
+A modern, fully responsive landing page built with Bootstrap, providing an overview of its grid system, components, and utilities for efficient web development. It includes a navbar, responsive grid layout, contact form with Bootstrap validation, a website template, and a footer. This project is ideal for practicing Bootstrap’s responsive design, layout techniques, and component integration to create professional-looking websites. 🚀
